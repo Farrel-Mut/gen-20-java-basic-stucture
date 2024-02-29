@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main4 {
+public class Ganji_Genap {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Angka pertama : ");

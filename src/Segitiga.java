@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main3 {
+public class Segitiga {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Tinggi tangga : ");
